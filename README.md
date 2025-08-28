@@ -50,7 +50,8 @@ When data is passed to a function, there are different ways in which it can be h
 ---
 
 SAMPLE OUTPUT:
-Pass by value code-
+          
+          Pass by value code-
                         a is:5
                         b is:2
                         
